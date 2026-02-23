@@ -1,23 +1,36 @@
-<h1 align="center">Hi 👋, I'm Kero</h1>
-<h3 align="center">This is my readme</h3>
+<h1 align="center">Hi, I'm Kerem 👋</h1>
+<h3 align="center">Computer Science Student</h3>
 
-- 🔭 I’m currently working on **some project**
+---
 
-- 🌱 I’m currently learning **frameworks**
+🎓 Computer Science student at Sofia University  
+💻 Interested in Backend Development, Web Technologies, and Databases  
+🔎 Currently looking for a **Junior Software Developer / Backend Developer** position  
+🛠 Experience with Python, Django, SQL, and C/C++  
+📫 Contact: keremsunayhalil@gmail.com  
 
-- 👯 I’m currently collaborating on **Experian**
+---
 
-- 🤝 I’m looking for help with **development**
+### 🧰 Technologies
 
-- 💬 Ask me about **django**
-
-- 📫 How to reach me **keremsunayhalil@gmail.com**
-
-- ⚡ Fun fact **I think im funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 📌 About Me
+
+- I enjoy building backend systems and APIs  
+- I like working with databases and structured data  
+- I’m focused on writing clean, understandable code  
+- Open to internships and junior roles
+
+---
+
+Thanks for visiting my profile 🙂
